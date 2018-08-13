@@ -1,11 +1,13 @@
 # awesome-ai
 
+目前主要搜集了 GitHub 上已有的和 AI 相关的 Awesome List，下一步准备在此基础上一步一步做一个比较全的 Awesome AI List。
+
 ### AI ###
 [Awesome Artificial Intelligence (AI)](https://github.com/owainlewis/awesome-artificial-intelligence)  
 [My Artificial Intelligence Bookmarks](https://github.com/goodrahstar/my-awesome-AI-bookmarks)
   
 
-### 机器学习###
+### 机器学习 ###
 [Machine Learning & Deep Learning Tutorials](https://github.com/ujjwalkarn/Machine-Learning-Tutorials)  
 [Awesome Machine Learning On Source Code](https://github.com/src-d/awesome-machine-learning-on-source-code)  
 [Awesome Machine Learning with Ruby](https://github.com/arbox/machine-learning-with-ruby)  
@@ -15,7 +17,7 @@
 [Awesome Core ML models](https://github.com/SwiftBrain/awesome-CoreML-models)  
   
 
-### 深度学习###
+### 深度学习 ###
 [awesome-deep-learning](https://github.com/ChristosChristofidis/awesome-deep-learning)  
 [Awesome Deep Learning Resources](https://github.com/guillaume-chevalier/Awesome-Deep-Learning-Resources)  
 [Awesome-TensorFlow-Chinese](https://github.com/fendouai/Awesome-TensorFlow-Chinese)  
@@ -24,7 +26,7 @@
 [awesome-deep-vision-web-demo](https://github.com/hwalsuklee/awesome-deep-vision-web-demo)  
   
 
-### 自然语言处理###
+### 自然语言处理 ###
 [awesome-nlp](https://github.com/keon/awesome-nlp)  
 [Awesome NLP with Ruby](https://github.com/arbox/nlp-with-ruby)  
 [awesome-embedding-models](https://github.com/Hironsan/awesome-embedding-models)  
@@ -33,7 +35,7 @@
 [awesome-2vec](https://github.com/MaxwellRebo/awesome-2vec)  
   
 
-### 大数据###
+### 大数据 ###
 [Awesome Scala](https://github.com/lauris/awesome-scala)  
 [Awesome Big Data](https://github.com/onurakpolat/awesome-bigdata)  
 [Awesome Spark](https://github.com/awesome-spark/awesome-spark)  
@@ -43,7 +45,7 @@
 [awesome-mesos](https://github.com/dharmeshkakadia/awesome-mesos)  
   
 
-### 其它###
+### 其它 ###
 [Awesome Bots](https://github.com/hackerkid/bots)  
 [Awesome Math](https://github.com/rossant/awesome-math)  
 [awesome-machine-learning-interpretability](https://github.com/jphall663/awesome-machine-learning-interpretability)  

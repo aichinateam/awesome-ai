@@ -1,14 +1,14 @@
 # awesome-ai
 
 ### AI###
-[Awesome Artificial Intelligence (AI)](https://github.com/owainlewis/awesome-artificial-intelligence)
+[Awesome Artificial Intelligence (AI)](https://github.com/owainlewis/awesome-artificial-intelligence)  
 [My Artificial Intelligence Bookmarks](https://github.com/goodrahstar/my-awesome-AI-bookmarks)
   
 
 ### 机器学习###
-[Machine Learning & Deep Learning Tutorials](https://github.com/ujjwalkarn/Machine-Learning-Tutorials)
-[Awesome Machine Learning On Source Code](https://github.com/src-d/awesome-machine-learning-on-source-code)
-[Awesome Machine Learning with Ruby](https://github.com/arbox/machine-learning-with-ruby)
+[Machine Learning & Deep Learning Tutorials](https://github.com/ujjwalkarn/Machine-Learning-Tutorials)  
+[Awesome Machine Learning On Source Code](https://github.com/src-d/awesome-machine-learning-on-source-code)  
+[Awesome Machine Learning with Ruby](https://github.com/arbox/machine-learning-with-ruby)  
 [Machine Learning Surveys](https://github.com/mlreview/machine-learning-surveys)
 [Awesome Quantum Machine Learning](https://github.com/krishnakumarsekar/awesome-quantum-machine-learning)
 [Awesome Core ML Models](https://github.com/likedan/Awesome-CoreML-Models)

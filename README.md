@@ -1,4 +1,4 @@
-# awesome-ai
+# Awesome AI
 
 目前主要搜集了 GitHub 上已有的和 AI 相关的 Awesome List，下一步准备在此基础上一步一步做一个比较全的 Awesome AI List。
 大家可以在 [GitHub](https://github.com/aichinateam/awesome-ai) 上一起贡献这个列表，谢谢！

@@ -1,6 +1,6 @@
 # awesome-ai
 
-### AI###
+### AI ###
 [Awesome Artificial Intelligence (AI)](https://github.com/owainlewis/awesome-artificial-intelligence)  
 [My Artificial Intelligence Bookmarks](https://github.com/goodrahstar/my-awesome-AI-bookmarks)
   
